@@ -1,0 +1,15 @@
+form {width: 320px}
+
+section {margin: 5px;}
+
+.m-name {
+  display: inline-block;
+  width: 125px;
+}
+
+#btn {
+  margin-top: 15px;
+  width: 320px;
+}
+
+button {margin-left: 10px;}
